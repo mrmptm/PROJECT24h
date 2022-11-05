@@ -1,0 +1,4 @@
+../Core/Src/button.c:19:6:BTN_INIT	24	static
+../Core/Src/button.c:31:6:button_reading	16	static
+../Core/Src/button.c:59:5:button_pressed	16	static
+../Core/Src/button.c:64:5:button_pressed_1s	16	static

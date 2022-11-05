@@ -1,0 +1,8 @@
+../Core/Src/input_processing.c:49:6:fsm_simple_buttons_run	8	static
+../Core/Src/input_processing.c:279:6:count_BTN_pressed3s	16	static
+../Core/Src/input_processing.c:298:5:BTN_INC_PRESSED_3s	4	static
+../Core/Src/input_processing.c:301:5:BTN_DEC_PRESSED_3s	4	static
+../Core/Src/input_processing.c:305:6:reset_var_counter_3s	4	static
+../Core/Src/input_processing.c:312:6:count_BTN_released10s	4	static
+../Core/Src/input_processing.c:320:6:reset_var_released_10s	4	static
+../Core/Src/input_processing.c:325:5:BTN_RELEASED_10s	4	static
